@@ -200,4 +200,4 @@ with tab4:
     st.markdown(relatorio)
 
     # Caixa de texto com o relatório bruto (para copiar/editar)
-    st.text_area("Relatório em texto bruto:", relatorio, height=300
+    st.text_area("Relatório em texto bruto:", relatorio, height=3000)
